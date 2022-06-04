@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Gumball Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Gumball Regular'), url('Gumball.woff') format('woff');
+    }
+
+h1{
+    font-family: 'Gumball Regular';
+    font-weight: 400;
+    color:azure
+}
